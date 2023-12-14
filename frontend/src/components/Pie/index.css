@@ -1,0 +1,18 @@
+.pie-main{
+                width:100vw;
+
+                background-color:#16cc86;
+
+                height:100vh;
+}
+
+.design{
+            width:100vw;
+
+            justify-content: flex-start;
+            align-items: center;
+
+            height:50vh;
+
+            display: flex;
+}

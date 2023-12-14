@@ -1,0 +1,22 @@
+.head-main{
+                width:100vw;
+
+                display: flex;
+
+                justify-content: space-around;
+
+                height:10vh;
+
+
+}
+
+.lists{
+            color:#000000;
+            list-style: none;
+
+            font-weight: bold;
+}
+
+.lins{
+           text-decoration: none; 
+}

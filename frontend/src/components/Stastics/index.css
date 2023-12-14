@@ -1,0 +1,58 @@
+.stas-main{
+                width:100vw;
+
+                background-color:#16cc86;
+
+                height:100vh;
+}
+
+.inpu-main{
+                    width:50vw;
+
+                    justify-content: space-around;
+
+                    align-items: center;
+
+                    height:15vh;
+
+                    display: flex;
+
+                    flex-direction: column;
+}
+
+.stas-click{
+                    width:200px;
+
+                    height:40px;
+}
+
+.line{
+                width:90vw;
+
+                border-color:#000000;
+
+                border-style: solid;
+}
+
+
+.result-main{
+
+                    width:100vw;
+
+                    justify-content: center;
+                    align-items: center;
+
+                    height:50vh;
+
+                    display: flex;
+
+                    flex-direction: column;
+
+
+}
+
+.text{
+            font-size: 20px;
+
+            font-weight: bold;
+}
